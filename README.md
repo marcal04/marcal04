@@ -6,11 +6,11 @@
 
 <br clear="both">
 
-<h2 align="center">SOBRE MIM</h2>
+<h1 align="center">SOBRE MIM</h1>
 
 ###
 
-<p align="center">Graduando em Engenharia de Software 🎓<br>Estudante de Java 👾</p>
+<h2 align="center">Graduando em Engenharia de Software 🎓<br>Estudante de Java 👾</h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/37/08/62/370862bbff7f3d3345a3d0e9b45a38c3.gif"  />
+<img align="left" height="219" src="https://i.pinimg.com/originals/37/08/62/370862bbff7f3d3345a3d0e9b45a38c3.gif"  />
 
 ###
 
@@ -58,74 +58,9 @@
 </picture>
 
 ###
-<!DOCTYPE html >
-< html >
-< cabeçalho >
-  < meta  name =" description " content =" Pacman animado usando CSS puro " >
-  < meta  charset =" utf-8 " >
-  < meta  name =" viewport " content =" width=device-width " >
-  <title> Pacman animado - CSS puro </title>
-  < estilo >
-    corpo {
-      altura : 100 % ;
-      fundo : branco;
-    }
 
-    . centro {
-      exibição : flexível;
-      justificar-conteúdo : centralizado;
-      alinhar-itens : centro;
-    }
-
-    . círculo {
-      raio-da-borda :  50 % ;
-    }
-
-    . pacman {
-      largura : 100 px ;
-      altura : 100 px ;
-      fundo : azul;
-      overflow : oculto;
-    }
-
-    . olho {
-      largura : 15 px ;
-      altura : 15 px ;
-      fundo : branco;
-      transformar :  traduzirX ( 10 px ) traduzirY ( -30 px )
-    }
-
-    . boca {
-      animação : comer 0,3 s alternado infinito;
-      função-de-temporização-da-animação : linear;
-      posição : absoluta;
-      largura : 100 px ;
-      altura : 0 ;
-
-      borda superior : 50 px sólida transparente;
-      borda inferior : 50 px sólida transparente;
-      borda-direita : 100 px sólida branca;
-    }
-
-    @keyframes comer {
-      de {
-        borda superior : 60 px sólida transparente;
-        borda inferior : 60 px sólida transparente;
-      }
-
-      para {
-        borda superior : 0 sólida transparente;
-        borda-inferior : 0 sólida transparente;
-      }
-    }
-  </ estilo >
-</head>​​
-< corpo >
-    < div  class =" pacman circle center " >
-      < div  class = " eye circle " > </div>
-      < div  class = " mouth circle " > </div>
-    </div>​​
-</body>​​
-</ html >
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FF0000%20&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
