@@ -1,16 +1,16 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FF0000%20&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FF0000%20&fontAlign=50&fontAlignY=50&stroke=-&descSize=30&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">SOBRE MIM</h1>
+<h2 align="center">SOBRE MIM</h2>
 
 ###
 
-<h2 align="center">Graduando em Engenharia de Software 🎓<br>Estudante de Java 👾</h2>
+<h4 align="center">Graduando em Engenharia de Software 🎓<br>Estudante de Java 👾</h4>
 
 ###
 
@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img align="left" height="219" src="https://i.pinimg.com/originals/37/08/62/370862bbff7f3d3345a3d0e9b45a38c3.gif"  />
+<img align="left" height="200" src="https://i.pinimg.com/originals/37/08/62/370862bbff7f3d3345a3d0e9b45a38c3.gif"  />
 
 ###
 
@@ -51,16 +51,12 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcal04/marcal04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcal04/marcal04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcal04/marcal04/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/marcal04/marcal04/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FF0000%20&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=100&fontColor=FF0000%20&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=30&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
