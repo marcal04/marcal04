@@ -48,15 +48,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marcal04/marcal04/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=100&fontColor=FF0000%20&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=30&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
