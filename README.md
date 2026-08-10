@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h3 align="center">Graduando em Engenharia de Software 🎓<br>cybersecurity 🎓<br>Estudante de Linux 👾<br>Estudante de IA 👾</h3>
+<h3 align="center">Graduando em engenharia de software 🎓<br>Segurança cibernética 🎓</h3>
 
 ###
 
