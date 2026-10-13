@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center">Graduando em engenharia de software<br>Testador de penetração</h2>
+<h2 data-importer="text" align="center">Graduando em engenharia de software<br>cibersegurança </h2>
 
 ###
 
