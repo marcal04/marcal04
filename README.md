@@ -1,65 +1,89 @@
-<br clear="both">
+<div align="center">
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00FFFF"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0f2027,100:00FFFF&text=Guilherme%20Mar%C3%A7al&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=Engenharia%20de%20Software%20%7C%20Ciberseguran%C3%A7a&descSize=18&descAlignY=62" />
+
 </div>
 
-###
+## 👋 Olá, eu sou o Guilherme
 
-<br clear="both">
+Estudante de **Engenharia de Software** com foco em **Cibersegurança**. Gosto de entender como os sistemas funcionam para depois entender como protegê-los.
 
-<h1 data-importer="text" align="center">Hello, World!</h1>
+Estou em busca da minha **primeira oportunidade de estágio** na área de tecnologia e segurança da informação, onde eu possa aprender na prática e contribuir com o time.
 
-###
+---
 
-<br clear="both">
+## 🎯 Foco atual
 
-<h2 data-importer="text" align="center">Graduando em engenharia de software<br>Cibersegurança </h2>
+- 🔐 Fundamentos de segurança da informação (CIA: Confidencialidade, Integridade e Disponibilidade)
+- 🐉 Prática com **Kali Linux** em laboratório próprio e controlado
+- ☕ Java e boas práticas de código seguro
+- 🌐 Redes, Linux e Docker
 
-###
+---
 
-<img data-importer="image" align="left" height="180" src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-linux-mascot-tux-wearing-sunglasses-against-a-matrix-style-background.jpg?w=1600&h=900&fit=crop"  />
+## 🛠️ Tecnologias
 
-###
+<div align="center">
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="37" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="37" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="37" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="37" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="37" alt="windows8 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="Java" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+
 </div>
 
-###
+**Ferramentas de segurança que estou estudando:**
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/guilherme-marçal-a3357a261" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 📚 Trilha de estudos
+
+| Tema | Status |
+|------|--------|
+| Java e Orientação a Objetos | ✅ Estudado |
+| Linux e linha de comando | ✅ Estudado |
+| Kali Linux e ferramentas básicas | 🔄 Em andamento |
+| Redes (TCP/IP, DNS, HTTP) | 🔄 Em andamento |
+| OWASP Top 10 | 🔄 Em andamento |
+| Criptografia e hashing | 📌 Próximo |
+
+---
+
+## 🚀 Projetos
+
+> Em breve! Estou organizando meus laboratórios e anotações de estudo para publicar aqui.
+
+<!-- Quando tiver projetos, use este modelo:
+- **[nome-do-projeto](link)**: o que faz em uma frase. Tecnologias: Java, Docker.
+-->
+
+---
+
+## ⚖️ Compromisso ético
+
+Todo o conteúdo de segurança que eu pratico é feito **apenas em laboratórios próprios ou plataformas autorizadas**, com foco em **defesa e aprendizado**.
+
+---
+
+## 📫 Vamos conversar?
+
+<a href="https://www.linkedin.com/in/guilherme-mar%C3%A7al-a3357a261" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00FFFF,100:0f2027" />
+
 </div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcal04 /marcal04 /pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcal04 /marcal04 /pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcal04 /marcal04 /pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00FFFF"  />
-</div>
-
-###
