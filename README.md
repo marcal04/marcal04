@@ -8,7 +8,7 @@
 
 Estudante de **Engenharia de Software** com foco na área de **cibersegurança**.
 
-Combino **desenvolvimento**, **redes** e **pentest** com **automação em Python** e **orquestração de IA** para tornar tarefas de segurança mais rápidas e repetíveis.
+Combino o **desenvolvimento**, **redes** e **pentest** com **automação em Python** e **orquestração de IA** para tornar tarefas de segurança mais rápidas e repetíveis.
 
 ---
 
