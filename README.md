@@ -26,6 +26,12 @@ Combino o **desenvolvimento**, **redes** e **pentest** com **automação em Pyth
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
+**IA e automação**
+
+![Orquestração de IA](https://img.shields.io/badge/Orquestra%C3%A7%C3%A3o_de_IA-6C47FF?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
+
 **Infraestrutura e apoio**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
